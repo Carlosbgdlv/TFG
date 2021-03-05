@@ -1,0 +1,165 @@
+Analysis per feature and revision
+
+AGE
+No outliers, several nan's
+Keep the revisions up to having 40-50 patients.
+The limit stands for the progesores class
+
+--------------------------------------------------
+
+Weight
+Outliers, for valures out of [25,200]
+
+
+
+
+
+--------------------------------------------------
+Size
+
+Outliers for values out of [120,210]
+
+
+-------------------------------------------------
+IMC
+
+Outliers for values out of [10,100]
+
+There are several patients with values between 60 and 100, is that correct. Most of the patients are in the range 18-59
+
+-------------------------------------------------
+Creatinine
+
+Outliers values out of [0,5]
+
+
+-------------------------------------------------
+Cystatin
+
+Outliers values out of [0,6?].
+
+Bunch of patients with values up to 12, consider this as a limit?
+
+---------------------------------------------------
+
+HDL
+
+Outliers values out of [10,125]
+
+There are some patiens with values near 0 (5,10), and othes with values higher than 125, like 140,175,160
+
+----------------------------------------------------
+LDL
+
+outliers values out of [15,300]
+
+most of the values are between 225 and 20
+
+----------------------------------------------------
+
+Triglyciredes
+
+outliers values out of [0,750]?
+
+----------------------------------------------------
+
+GOT
+
+outliers values out of [0,150]
+
+a bunch of patients with values higher than 150 up to 500
+
+---------------------------------------------------
+
+GPT 
+
+outliers values out of [0,250]
+
+a bunch of patients with values between 250 an 400, some even higher up to 1000
+
+---------------------------------------------------
+
+GGT
+
+outliers values out of [0,1000]
+
+some patiens even higher 1500 up to 2500
+
+--------------------------------------------------
+
+Albuminuria
+
+outliers values out of [0,1000]
+
+a bunch of patients with values between 1000 and 3000
+
+----------------------------------------------------
+
+Ferritin
+
+outliers values out of [0,1000] or [0,1500]?
+
+some patients even higher up to 3000
+----------------------------------------------------
+
+HOMA
+
+outliers values out of [0,20]
+
+bunch of patients with values higher than 20, between 20 and 50, some even higher
+
+----------------------------------------------------
+
+Insulin
+
+outliers values out of [0,100]
+
+a bunch of patients with values even higher
+
+----------------------------------------------------
+
+Blood glucose
+
+outliers values out of [40,400]
+
+a bunch of patients with values between 0 40 (very few) and two with values higheer than 400
+
+------------------------------------------------------
+
+Glycated -HB
+
+outliers values out of [2,15]
+
+some with values higher than 20, but only two
+
+-----------------------------------------------------
+
+PCR
+
+outliers values out of [0,200]
+
+a pat with 300
+
+-------------------------------------------------------
+
+Vitamin-D 
+
+outliers values out of [0,80]
+
+two patients with values 100
+
+--------------------------------------------------------
+
+TAD
+
+outliers values out of [30,150]
+
+one pat with 225
+
+---------------------------------------------------------
+
+TAS
+
+outliers values out of [50,250]
+
+two pats with 450 and 610
