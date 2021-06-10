@@ -10,3 +10,5 @@ EDA/.~lock.Comentarios_Outliers.odt#
 .ipynb_checkpoints/Diabetes_Random_Forest_UNDERSAMPLING-checkpoint.ipynb
 .ipynb_checkpoints/Diabetes_Random_Forest_UNDERSAMPLING_oscar-checkpoint.ipynb
 .ipynb_checkpoints/Diabetes_Random_Forest_UNDERSAMPLING_rev2_oscar-checkpoint.ipynb
+rf_reviews_model
+example_rf.npy
