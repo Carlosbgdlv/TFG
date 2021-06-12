@@ -13,7 +13,7 @@ def data_nan_review_analysis(X,without_homa_vit_d = False,show_info_nan = False)
     
     
     df = df.drop('Blood_Glucose',axis = 1)
-   # df = df.drop('Glycated-HB',axis = 1)
+    df = df.drop('Glycated-HB',axis = 1)
  
     
     if without_homa_vit_d:
